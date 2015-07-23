@@ -1,0 +1,14 @@
+D:\周智2011\VS\网上下载demo\GoogleMapsNet_Test_Project\GoogleMapsNet Test Project\GoogleMapDownLoader\obj\x86\Debug\GoogleMapDownLoader.Form1.resources
+D:\周智2011\VS\网上下载demo\GoogleMapsNet_Test_Project\GoogleMapsNet Test Project\GoogleMapDownLoader\obj\x86\Debug\GoogleMapDownLoader.Properties.Resources.resources
+D:\周智2011\VS\网上下载demo\GoogleMapsNet_Test_Project\GoogleMapsNet Test Project\GoogleMapDownLoader\obj\x86\Debug\GoogleMapDownLoader.csproj.GenerateResource.Cache
+D:\周智2011\VS\网上下载demo\GoogleMapsNet_Test_Project\GoogleMapsNet Test Project\GoogleMapDownLoader\bin\Debug\GoogleMapDownLoader.exe
+D:\周智2011\VS\网上下载demo\GoogleMapsNet_Test_Project\GoogleMapsNet Test Project\GoogleMapDownLoader\bin\Debug\GoogleMapDownLoader.pdb
+D:\周智2011\VS\网上下载demo\GoogleMapsNet_Test_Project\GoogleMapsNet Test Project\GoogleMapDownLoader\obj\x86\Debug\GoogleMapDownLoader.exe
+D:\周智2011\VS\网上下载demo\GoogleMapsNet_Test_Project\GoogleMapsNet Test Project\GoogleMapDownLoader\obj\x86\Debug\GoogleMapDownLoader.pdb
+D:\周智2011\Githubs\GoogleMapDownLoader\obj\x86\Debug\GoogleMapDownLoader.exe
+D:\周智2011\Githubs\GoogleMapDownLoader\obj\x86\Debug\GoogleMapDownLoader.pdb
+D:\周智2011\Githubs\GoogleMapDownLoader\bin\Debug\GoogleMapDownLoader.exe
+D:\周智2011\Githubs\GoogleMapDownLoader\bin\Debug\GoogleMapDownLoader.pdb
+D:\周智2011\Githubs\GoogleMapDownLoader\obj\x86\Debug\GoogleMapDownLoader.Properties.Resources.resources
+D:\周智2011\Githubs\GoogleMapDownLoader\obj\x86\Debug\GoogleMapDownLoader.csproj.GenerateResource.Cache
+D:\周智2011\Githubs\GoogleMapDownLoader\obj\x86\Debug\GoogleMapDownLoader.MainForm.resources
